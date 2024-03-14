@@ -56,7 +56,7 @@ export const Navbar = () => {
             }}
           />
           <UserButton
-            afterSignOutUrl="/"
+            afterSignOutUrl="/sign-up"
             appearance={{
               elements: {
                 avatarBox: {
